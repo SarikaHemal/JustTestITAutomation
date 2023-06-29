@@ -1,5 +1,3 @@
-# JustTestITAutomation
-
 JustTestItAutomation is a automation tseting using NUnit, Specflow, and Selenium for Buggy Cars Rating (https://buggy.justtestit.org/)
 
 Pre-Requisites
@@ -28,5 +26,6 @@ And select Test and Run Test.
 How to check report?
 After Test excecute the tests index file will created in "TestResults" folder in project location
 Goto folder explorer>TestResults
-open Index.html in webbrowser to view BDD style report
-If test fail then image will create and attach with report
+open Index.html in webbrowser to view BDD style report.
+If test fail, then image will create and attach with report
+
